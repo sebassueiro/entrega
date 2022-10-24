@@ -14,6 +14,7 @@ opciones a resolver:
 SÓLO se saldrá de la aplicación si se selecciona la opción 5.
 */
 
+/** ALGUN CAMBIO**/
 void main()
 {
 int opc;
